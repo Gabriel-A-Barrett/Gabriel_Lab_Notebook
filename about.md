@@ -26,7 +26,6 @@ Summer 2023 | Administrative Support Associate-Temp | University of Connecticut,
 2020-2021 | Data Analyst Assistant | University of Connecticut, Department of Ecology and Evolutionary Biology
 
 ### EDUCATION
-
 Date|Position| Affiliation | Question
 --|--|--|--|
 | 2023 |	MSc in Biology | University of Rhode Island (URI) | Do variant graphs improve downstream analysis in RADseq pop. gen.
