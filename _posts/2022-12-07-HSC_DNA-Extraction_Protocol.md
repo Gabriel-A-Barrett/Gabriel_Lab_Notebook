@@ -12,7 +12,6 @@ Changes include:
 * Purpose added
 
 
-
 ## Purpose
 Extracting DNA from horseshoe crab tissue for ddRAD library prep. 
 
